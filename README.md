@@ -26,5 +26,13 @@
 - alt+i = í
 - alt+o = ó
 - alt+u = ú
+
+- ctrl+alt+n = Ñ
+- ctrl+alt+a = Á
+- ctrl+alt+e = É
+- ctrl+alt+i = Í
+- ctrl+alt+o = Ó
+- ctrl+alt+u = Ú
+
 - alt+? = ¿
 - alt+! = ¡
